@@ -1,4 +1,4 @@
 # Python-Programs #
 
 
-**It is a repository made for python programs made by me....
+I made some Python Programs. They are here!
